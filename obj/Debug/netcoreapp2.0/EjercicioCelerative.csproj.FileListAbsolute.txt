@@ -1,0 +1,11 @@
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\bin\Debug\netcoreapp2.0\EjercicioCelerative.deps.json
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\bin\Debug\netcoreapp2.0\EjercicioCelerative.runtimeconfig.json
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\bin\Debug\netcoreapp2.0\EjercicioCelerative.runtimeconfig.dev.json
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\bin\Debug\netcoreapp2.0\EjercicioCelerative.dll
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\bin\Debug\netcoreapp2.0\EjercicioCelerative.pdb
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\obj\Debug\netcoreapp2.0\EjercicioCelerative.csprojAssemblyReference.cache
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\obj\Debug\netcoreapp2.0\EjercicioCelerative.csproj.CoreCompileInputs.cache
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\obj\Debug\netcoreapp2.0\EjercicioCelerative.AssemblyInfoInputs.cache
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\obj\Debug\netcoreapp2.0\EjercicioCelerative.AssemblyInfo.cs
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\obj\Debug\netcoreapp2.0\EjercicioCelerative.dll
+E:\Projects\Practicas Varias\Celerative\EjercicioCelerative\obj\Debug\netcoreapp2.0\EjercicioCelerative.pdb
